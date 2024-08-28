@@ -1,6 +1,7 @@
 # discordsb
 a versatile "user bot" for discord
 ---
+INSTALL discord.py-self LIBRARY.
 
 Only two commands have been included as demo. Further commands may be included at your discretion.
 
